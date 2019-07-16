@@ -5,6 +5,7 @@ The code is this repository was used to proeduce the data and results from this 
 > "Predicting Human Actities from User-Generated Content" 
 > Steven R. Wilson and Rada Mihalcea. 
 > ACL 2019.
+
 There is a copy of the paper in this repository in the file called `Wilson_ACL_2019.pdf`.
 
 ## Contents
