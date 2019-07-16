@@ -1,6 +1,6 @@
 # dnt-semantic-similarity
 
-**Code in this subdirectory here written/adapted by Li Zhang in 2018**
+*Much of the code in this subdirectory here was written/adapted by Li Zhang in 2018*
 
 ## Acknowledgements
 The codes in /InferSent-master are modified from the original [InferSent](https://github.com/facebookresearch/InferSent) implementation copyrighted by Facebook, Inc.
